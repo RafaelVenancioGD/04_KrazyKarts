@@ -1,0 +1,24 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-KrazyKarts-1708.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\GD\Projetos\04_KrazyKarts\KrazyKarts\Intermediate\Build\Win64\UE4Editor\Development\KrazyKarts\KrazyKarts.cpp.obj"
+"D:\GD\Projetos\04_KrazyKarts\KrazyKarts\Intermediate\Build\Win64\UE4Editor\Development\KrazyKarts\KrazyKartsGameMode.cpp.obj"
+"D:\GD\Projetos\04_KrazyKarts\KrazyKarts\Intermediate\Build\Win64\UE4Editor\Development\KrazyKarts\KrazyKartsHud.cpp.obj"
+"D:\GD\Projetos\04_KrazyKarts\KrazyKarts\Intermediate\Build\Win64\UE4Editor\Development\KrazyKarts\KrazyKartsPawn.cpp.obj"
+"D:\GD\Projetos\04_KrazyKarts\KrazyKarts\Intermediate\Build\Win64\UE4Editor\Development\KrazyKarts\KrazyKartsWheelFront.cpp.obj"
+"D:\GD\Projetos\04_KrazyKarts\KrazyKarts\Intermediate\Build\Win64\UE4Editor\Development\KrazyKarts\KrazyKartsWheelRear.cpp.obj"
+"D:\GD\Projetos\04_KrazyKarts\KrazyKarts\Intermediate\Build\Win64\UE4Editor\Development\KrazyKarts\KrazyKarts.init.gen.cpp.obj"
+"D:\GD\Projetos\04_KrazyKarts\KrazyKarts\Intermediate\Build\Win64\UE4Editor\Development\KrazyKarts\KrazyKartsGameMode.gen.cpp.obj"
+"D:\GD\Projetos\04_KrazyKarts\KrazyKarts\Intermediate\Build\Win64\UE4Editor\Development\KrazyKarts\KrazyKartsHud.gen.cpp.obj"
+"D:\GD\Projetos\04_KrazyKarts\KrazyKarts\Intermediate\Build\Win64\UE4Editor\Development\KrazyKarts\KrazyKartsPawn.gen.cpp.obj"
+"D:\GD\Projetos\04_KrazyKarts\KrazyKarts\Intermediate\Build\Win64\UE4Editor\Development\KrazyKarts\KrazyKartsWheelFront.gen.cpp.obj"
+"D:\GD\Projetos\04_KrazyKarts\KrazyKarts\Intermediate\Build\Win64\UE4Editor\Development\KrazyKarts\KrazyKartsWheelRear.gen.cpp.obj"
+"D:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\KrazyKarts\PCLaunch.rc.res"
+"D:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"D:\GD\Projetos\04_KrazyKarts\KrazyKarts\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-KrazyKarts-1708.lib"

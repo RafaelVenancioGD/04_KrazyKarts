@@ -1,0 +1,3 @@
+D:\GD\Projetos\04_KrazyKarts\KrazyKarts\Source\KrazyKarts\KrazyKarts.Build.cs
+D:\GD\Projetos\04_KrazyKarts\KrazyKarts\Source\KrazyKarts.Target.cs
+D:\GD\Projetos\04_KrazyKarts\KrazyKarts\Source\KrazyKartsEditor.Target.cs
